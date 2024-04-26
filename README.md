@@ -1,3 +1,5 @@
+![image](https://github.com/KardelRuveyda/dream-interpreter-bot-backend-with-langchain/assets/33912144/47004f8a-c99f-487c-ad2d-8584e8664eb2)
+
 # Dream Interpreter Bot
 
 This project aims to develop a backend system for a dream interpreter bot using LangChain, a powerful natural language processing tool. The dream interpreter bot will analyze users' dreams and provide interpretations based on various symbolic meanings and psychological theories associated with dreams.
